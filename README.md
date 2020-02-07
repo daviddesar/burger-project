@@ -1,5 +1,7 @@
 ## Burger Order App
 
+[Live Demo Here](https://react-my-burger-fc000.web.app/)
+
 This project is a long-term assignment from [a React JS crash course from Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux) 
 
 What I learned from building this app:
