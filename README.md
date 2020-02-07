@@ -1,3 +1,21 @@
+## Burger Order App
+
+This project is a long-term assignment from [a React JS crash course from Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux) 
+
+What I learned from building this app:
+- React JS basic concepts
+- ES6 new features and functions
+- Understand how a single-page application works
+- React component lifecycle
+- Styling components with third-party libraries and CSS/SASS module
+- Routing in React
+- Form validation
+- Redux and Redux-thunk
+- Firebase database and authentication
+
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
